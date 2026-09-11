@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalTask", "TechnicalTask\TechnicalTask.csproj", "{89B6D2B2-5078-458A-95B5-0FE856B950A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalTaskTests", "TechnicalTaskTests\TechnicalTaskTests.csproj", "{0A69C1AA-7922-473C-97F2-A7AB91EF4FFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{89B6D2B2-5078-458A-95B5-0FE856B950A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89B6D2B2-5078-458A-95B5-0FE856B950A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89B6D2B2-5078-458A-95B5-0FE856B950A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A69C1AA-7922-473C-97F2-A7AB91EF4FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A69C1AA-7922-473C-97F2-A7AB91EF4FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A69C1AA-7922-473C-97F2-A7AB91EF4FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A69C1AA-7922-473C-97F2-A7AB91EF4FFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

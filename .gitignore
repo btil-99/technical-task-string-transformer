@@ -6,5 +6,4 @@ riderModule.iml
 
 # JetBrains Rider / IDE
 .idea/
-*.user
 *.DotSettings.user
